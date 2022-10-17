@@ -6,6 +6,7 @@ Run the following command
 composer install
 ```
 
+Create .env file
 ```
 cp .env.example .env
 ```
