@@ -6,6 +6,10 @@ Run the following command
 composer install
 ```
 
+```
+cp .env.example .env
+```
+
 Setup the database in the .env file and create the database so that it matches the DB_DATABASE value
 example:
 ```
